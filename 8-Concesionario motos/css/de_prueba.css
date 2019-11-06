@@ -1,0 +1,109 @@
+.card {
+	width: 100%;
+	height: 340px;
+}
+.text-center{
+	padding-top: 50%;
+}
+
+.charly{
+	background-color: #D10D16;
+}
+
+.novedades{
+ /*position: relative;*/
+ 
+ /*display: inline-block;
+ /*padding: 25px 20px 25px 45px;*/
+ border-radius: 5px;
+ color: black;
+ /*text-transform: uppercase;*/
+ }
+
+ .novedades i{
+background: #D10D16;
+color: black;
+font-size: 45px;
+width: 63px;
+height: 63px;
+text-align: center;
+border-radius: 55%;
+border:3px solid #A00707;
+
+-webkit-box-shadow:inset 0 0 15px 0 #BC0B0B;
+box-shadow:inset 0 0 15px 0 #F50B16;
+text-shadow: 0 1px 0 #A00707;
+box-shadow: 0 0 15px 0 #F50B16;
+
+}
+
+.delta {
+	background: #EE0A0A;
+	color: black;
+	font-size: 45px;
+	width: 63px;
+	height: 63px;
+	text-align: center;
+	border-radius: 120%;
+	border: 6px solid #B60E0E;
+
+	-webkit-box-shadow: 5px 5px 5px 10px #B60E0E inset;
+	/*box-shadow: 10px 10px 10px 10px #D10C0C inset;*/
+	text-shadow: 1px #EB0909;
+	/*box-shadow: 10px #EB0909;*/
+/*PROBAR BOX-SAHDOW SIN WEBKIT(CON LAS MISMA CARACTERISTICAS) Y LA SOMBTRA PARA AFUERA A LA VEZ.*/
+
+}
+
+
+.hotel{
+	background: #EE0A0A;
+	color: black;
+	font-size: 45px;
+	text-align: center;
+	border: 6px solid #B60E0E;
+	-webkit-box-shadow: 5px 5px 5px 10px #B60E0E inset;
+	text-shadow: 1px #EB0909;
+	border-radius: 10px;
+}
+ .cha{
+	background: #EE0A0A;
+	color: black;
+	font-size: 45px;
+	width: 63px;
+	height: 63px;
+	text-align: center;
+	border: 6px solid #B60E0E;
+	-webkit-box-shadow: 5px 5px 5px 10px #B60E0E inset;
+	text-shadow: 1px #EB0909;
+	border-radius: 10px;
+ 	color: black;
+ 	margin-top: 4px;
+
+ }
+
+ .a{
+ 	background: #EE0A0A;
+ 	color: black;
+	font-size: 45px;
+	text-align: center;
+	/*border: 6px solid #B60E0E;*/
+	-webkit-box-shadow: inset -1px -1px 32px 54px #B60E0E;
+/*-moz-box-shadow: inset -1px -1px 32px 54px #B60E0E;
+box-shadow: inset -1px -1px 32px 54px #B60E0E;*/
+ }
+
+ /*p {
+  visibility: hidden;
+}
+ 
+a:hover p {
+  visibility: visible;
+}*/
+
+.jumbotron {
+	background-color: black;
+	margin-bottom: 0px;
+}
+
+
